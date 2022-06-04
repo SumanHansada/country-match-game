@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Countdown Match Game using React
+
+This is a Country Match Game built with React!
+
+Checkout Demo Here! - [Country Match Game Demo](https://sumanhansada.github.io/country-match-game/)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
